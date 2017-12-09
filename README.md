@@ -1,6 +1,9 @@
 # vuejs-sample
 
-> A Vue.js project
+[Nextremer Advent Calendar 2017 9日目](https://qiita.com/tanikawa/items/945e5247eb5afc520b93)のサンプルプロジェクトです。
+
+記事の通りに環境構築をした後に、[Vuex 公式の example](https://github.com/vuejs/vuex/tree/dev/examples/counter) をベースとしたカウンターアプリを作成しました（See コミットログ）。
+
 
 ## Build Setup
 
@@ -26,5 +29,3 @@ npm run e2e
 # run all tests
 npm test
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
